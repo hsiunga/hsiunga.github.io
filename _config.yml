@@ -6,15 +6,20 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Abigail Hsiung
+tagline:          'Cognitive Scientist'
+description:      'PhD Candidate at Duke University studying how motivational states guide information seeking behaviors. Adapted from <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://hsiunga.github.io
 baseurl:          /
 
+# Site Author
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Abigail Hsiung'
+  avatar:         # picture 
+  # url:            https://twitter.com/mdo
+  googlescholar    : "https://scholar.google.com/citations?user=envk7yEAAAAJ&hl=en"
+  email            : "abbyhsiung@gmail.edu"
+  linkedin         : "abigail-hsiung-85725354"
 
 paginate:         5
 
