@@ -91,6 +91,9 @@ html {
   display: block;
   line-height: 1.75;
 }
+.sidebar-nav-img{
+  display: inline;
+}
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: underline;

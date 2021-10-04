@@ -21,8 +21,8 @@ I am co-mentored by [Drs. Alison Adcock](https://www.adcocklab.org/) and [Scott 
 
 I am particularly interested in the motivational state of **curiosity** and how information search occurs over multiple **sequential choices**. My primary research questions are:
 
-1. What strategies do we use to help us determine how much information to gather before making a decision? _(E.g., How do you decide how many reviews you need to read before purchasing a product from a website)_
-2. Does the motivational state of curiosity shape our preferences for how we receive information? _(E.g., If you're curious about a new movie do you read spoilers or wait to see it first?)_
+1. What strategies do we use to help us determine how much information to gather before making a decision?
+2. Does the motivational state of curiosity shape our preferences for how we receive information?
 3. What does it feel like to be curious? Does the affective experience of curiosity shape how curiosity, then, directs information seeking?
 
 ### Information Seeking Strategies 
@@ -32,6 +32,7 @@ I am particularly interested in the motivational state of **curiosity** and how 
 ----
 ## Data Visualizations
 ![FRANKIIIIEEE](/public/IMG_3689.jpeg){:class="img-responsive"}  
-  
-----
-## Resume and CV
+
+
+---
+## Teaching, Mentoring, & DEI Efforts
