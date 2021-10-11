@@ -32,11 +32,13 @@ In a world full of uncertainty, seeking information can help us improve our pred
 
 To investigate our question, we asked people to sample pictures of indoor or outdoor scenes from a box before deciding whether they thought the box contained more indoor or outdoor scenes. Each sampled picture, however, came with a small monetary cost to look at. We were interested in how people balanced the benefit of sampling pictures and improving predictions against these accruing costs.
 
-![DataViz1](/public/assets/ISTM_behavior.png){:class="img-responsive"} 
+![DataViz1](/public/assets/conditional_stopping.png){:class="img-responsive"} 
+![DataViz1](/public/assets/task_descriptives.png){:class="img-responsive"} 
 
 In order to capture information seeking choices, we developed a series of computational models to test what information people were using in their decision process and how they were using it.
 
 Selected presentations & key insights:
+- Look out for our manuscript on bioRxiv soon!
 
 ### Curiosity and Information Seeking
 _If you're curious about a new movie do you read spoilers or wait to see it first?_
@@ -52,6 +54,8 @@ To investigate our question, we developed a novel way to examine information see
 Using this design, we've examined a variety of questions into how people prefer to experience these videos, how it feels to be curious, and what kinds of information and search experiences contribute to the growth and sustainment of curiosity.
 
 Selected presentations & key insights:
+- [Wait, wait, don't tell me! When curiosity prioritizes process over outcome](/public/assets/SNE21_poster.pdf)
+- [Characterizing the Determinants of Curiosity](/public/assets/aps_2019.pdf)
 
 ----
 
