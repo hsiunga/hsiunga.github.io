@@ -9,7 +9,7 @@ Hello! Welcome, and thanks for stopping by.
 
 I'm a PhD candidate at Duke University studying how our motivational states direct our information seeking decisions. I joined Duke through the [Cognitive Neuroscience Admitting Program (CNAP)](https://dibs.duke.edu/education/graduate/cnap) in 2017.
 
-Before coming to Duke, I graduated from the University of Maryland, College Park in 2015, where I worked with [Dr. Tracy Riggins](http://ncdl.umd.edu/index.html) examining the development of episodic memory in children. I, then, spent two years working at the National Institutes of Mental Health with [Drs. Christian Grillon and Monique Ernst](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/snfa) studying the impact of anxiety of learning and memory.
+Before coming to Duke, I graduated from the University of Maryland, College Park in 2015, where I worked with [Dr. Tracy Riggins](http://ncdl.umd.edu/index.html) examining the development of episodic memory in children. I then spent two years working at the National Institutes of Mental Health with [Drs. Christian Grillon and Monique Ernst](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/snfa) studying the impact of anxiety of learning and memory.
 
 ----
 
