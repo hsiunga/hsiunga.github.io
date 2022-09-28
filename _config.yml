@@ -17,5 +17,6 @@ version: 2.1.0
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
 github:
   repo: 'https://github.com/hsiunga/'
