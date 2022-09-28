@@ -14,10 +14,10 @@ Before coming to Duke, I graduated from the University of Maryland, College Park
 ----
 
 ## Research
-I am co-mentored by [Drs. Alison Adcock](https://www.adcocklab.org/) and [Scott Huettel](https://sites.duke.edu/huettellab/). My research investigates how our **motivational states** direct our **information seeking decisions**.
+I am co-mentored by [Drs. Alison Adcock](https://www.adcocklab.org/) and [Scott Huettel](https://sites.duke.edu/huettellab/). My research investigates how our **motivational states** direct our choices to **seek information**.
 
 - Motivational states refer to internal states that propel our behavior towards particular goals. These goals could be to obtain rewards, to regulate or alter our emotions, or simply to comprehend the world around us.
-- Information seeking decisions refers to how we search for, collect, and integrate information from our external world. This includes, where we search for information, what we choose to look at, and how we decide to stop seeking information.
+- Information seeking refers to how we search for, collect, and integrate information from our external world. This includes, where we search for information, what we choose to look at, and how we decide to stop seeking information.
 
 I am particularly interested in the motivational state of **curiosity** and how information search occurs over multiple **sequential choices**. My primary research questions are:
 
@@ -37,8 +37,8 @@ To investigate our question, we asked people to sample pictures of indoor or out
 
 In order to capture information seeking choices, we developed a series of computational models to test what information people were using in their decision process and how they were using it.
 
-Selected presentations & key insights:
-- Look out for our manuscript on bioRxiv soon!
+Preprint available here: [Between heuristics and optimality: Flexible integration of cost and evidence during information sampling](https://www.biorxiv.org/content/10.1101/2022.05.17.492355v2)
+
 
 ### Curiosity and Information Seeking
 _If you're curious about a new movie do you read spoilers or wait to see it first?_
@@ -54,6 +54,7 @@ To investigate our question, we developed a novel way to examine information see
 Using this design, we've examined a variety of questions into how people prefer to experience these videos, how it feels to be curious, and what kinds of information and search experiences contribute to the growth and sustainment of curiosity.
 
 Selected presentations & key insights:
+- Preprint available here: [Spoiler Alert! Curiosity encourages patience and joy in the presence of uncertainty](https://psyarxiv.com/x5hgc)
 - [Wait, wait, don't tell me! When curiosity prioritizes process over outcome](/public/assets/SNE21_poster.pdf)
 - [Characterizing the Determinants of Curiosity](/public/assets/aps_2019.pdf)
 
